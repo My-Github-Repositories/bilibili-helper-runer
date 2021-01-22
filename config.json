@@ -1,8 +1,12 @@
 {
-  "numberOfCoins": 5,
+  "numberOfCoins": 0,
   "selectLike": 0,
   "monthEndAutoCharge": true,
+  "giveGift": true,
+  "upLive": "0",
+  "chargeForLove": "343348",
   "devicePlatform": "ios",
   "coinAddPriority": 1,
-  "userAgent": "Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0"
+  "skipDailyTask": false,
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
 }
