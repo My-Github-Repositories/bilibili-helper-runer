@@ -5,7 +5,6 @@ wget -O "BILIBILI-HELPER.zip" "https://github.com/JunzhouLiu/BILIBILI-HELPER/rel
 mkdir "jar"
 unzip -o "BILIBILI-HELPER.zip" -d "./jar/"
 mv "./jar/BILIBILI-HELPER-v${version}.jar" "./jar/BILIBILI-HELPER.jar" -f
-rm "./jar/config.josn"
 mv "./config.json" "./jar/config.json" -f
 rm "BILIBILI-HELPER.zip"
 
