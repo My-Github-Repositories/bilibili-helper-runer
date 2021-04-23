@@ -1,7 +1,7 @@
 {
-  "numberOfCoins": 0,
-  "reserveCoins": 50,
-  "selectLike": 0,
+  "numberOfCoins": 1,
+  "reserveCoins": 600,
+  "selectLike": 1,
   "monthEndAutoCharge": true,
   "giveGift": true,
   "upLive": "343348",
